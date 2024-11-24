@@ -13,6 +13,7 @@ export function Header() {
         { href: "#hero", label: "Início" },
         { href: "#motivos", label: "Motivos" },
         { href: "#atividades", label: "Atividades" },
+        { href: "#calculadora", label: "Pegada de carbono"}
     ]
     return (
         <header className="bg-green-800">
